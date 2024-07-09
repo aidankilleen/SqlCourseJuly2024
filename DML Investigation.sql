@@ -77,3 +77,4 @@ DELETE FROM #akCustomers;
 
 
 
+SELECT * FROM Orders;
