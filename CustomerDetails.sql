@@ -1,5 +1,5 @@
 -- Customer Details.sql
-DECLARE @CustomerID NCHAR(5) = 'SAVEA';
+DECLARE @CustomerID NCHAR(5) = 'AK101';
 
 DECLARE @Value NVARCHAR(255);
 DECLARE @SomeValue NVARCHAR(255);
